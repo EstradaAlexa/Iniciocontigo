@@ -79,14 +79,14 @@ color: #ffffff6e;
 
 .container .card h4{
 	font-size: 25px;
-	color:rgb(39, 99, 99);
+	color:rgb(0, 0, 0);
 }
 
 .container .card p{
 padding: 0 1rem;
 font-size: 16px;
 font-weight: 300;
-color:rgb(39, 99, 99);
+color:rgb(0, 0, 0);
 }
 
 .container .card a{
